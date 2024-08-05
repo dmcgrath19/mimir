@@ -17,3 +17,4 @@ pytest
 huggingface_hub
 ai2-olmo
 accelerate
+huggingface_hub
