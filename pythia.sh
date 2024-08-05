@@ -30,6 +30,6 @@ module load anaconda
 conda activate mimir
 cd /exports/eddie/scratch/s2558433/mimir/
 
-python run.py --config configs/mi.json
+python run.py --config configs/py-l.json
 
 conda deactivate
