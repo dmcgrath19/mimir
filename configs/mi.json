@@ -1,6 +1,6 @@
 {
-    "experiment_name": "neo125_github_experiment",
-    "base_model": "EleutherAI/gpt-neo-125m",
+    "experiment_name": "mi-pythia160m_github_experiment",
+    "base_model": "EleutherAI/pythia-160m",
     "dataset_member": "the_pile",
     "dataset_nonmember": "the_pile",
     "min_words": 100,
