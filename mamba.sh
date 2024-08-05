@@ -34,6 +34,6 @@ cd /exports/eddie/scratch/s2558433/mimir/
 pip install causal-conv1d==1.4.0
 pip install mamba-ssm==2.2.2
 
-python run.py --config configs/mi.json
+python run.py --config configs/mamba-mi.json
 
 conda deactivate
