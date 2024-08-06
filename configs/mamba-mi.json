@@ -25,7 +25,7 @@
         ],
         "pct_words_masked": 0.3,
         "span_length": 2,
-        "dump_cache": true,
+        "dump_cache": false,
         "load_from_cache": false,
         "neighbor_strategy": "random"
     },
